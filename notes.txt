@@ -1,0 +1,25 @@
+- HTML
+- CSS
+- Javascript
+- Boostratp
+
+projects
+
+- mini calcaluator project
+- fully functional calcaluator project
+- local stroage CRUD
+- project using Boostratp
+
+2 kinds => static & dynamic websites
+
+HTML => HyperText Markup Language
+
+- opening tag(<p>) & closing tag (</p>)
+- self closing tag
+
+- inline level elements
+- block level elements
+
+html => head, body
+head => meta, title
+body => h, p, span
