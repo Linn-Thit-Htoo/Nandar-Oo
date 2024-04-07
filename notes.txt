@@ -23,3 +23,22 @@ HTML => HyperText Markup Language
 html => head, body
 head => meta, title
 body => h, p, span
+
+
+******* Day 2 *******
+
+- 2 kinds => key-value pairs attribute (name = "Linn Thit")
+          => standalone attribute (required, readonly, disabled, selected)
+
+comment => ctrl + /
+        => cmd + /
+
+bdo -> default => ltr (left to right)
+               => rtl (right to left)
+
+ctrl + space (code suggestion)
+
+a => anchor
+target key-value pair attribute
+
+cdn => content delivery network
