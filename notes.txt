@@ -42,3 +42,16 @@ a => anchor
 target key-value pair attribute
 
 cdn => content delivery network
+
+******* Day 3 *******
+
+img => image
+attributes => src (sourcce), width, height (unit => px, em, vh, %), alt (alternative text)
+
+input types => text, tel, number, email, password, date, checkbox, radio, submit, range, file, url
+
+thead => table header
+tbody => table body
+tr => table row
+th => table heading
+td => table data
