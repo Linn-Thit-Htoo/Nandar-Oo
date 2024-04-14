@@ -55,3 +55,11 @@ tbody => table body
 tr => table row
 th => table heading
 td => table data
+
+******* Day 4 *******
+
+list
+
+1. ol => order list
+2. ul => unorder list
+3. li => list
