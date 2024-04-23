@@ -63,3 +63,20 @@ list
 1. ol => order list
 2. ul => unorder list
 3. li => list
+
+******* Day 5 *******
+
+CSS => Cascading stylesheet
+used in designing
+
+3 types
+
+1. inline CSS
+2. internal CSS
+3. external CSS
+
+selectors
+
+1. element selector
+2. id selector => unique (#)
+3. class selector (.)
