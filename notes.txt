@@ -80,3 +80,11 @@ selectors
 1. element selector
 2. id selector => unique (#)
 3. class selector (.)
+
+******* Day 6 *******
+
+- margin
+- padding
+- content
+
+cdn => content delivery network
