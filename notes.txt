@@ -88,3 +88,27 @@ selectors
 - content
 
 cdn => content delivery network
+
+May 6 Quiz
+
+******* Day 8 *******
+- overflow => hidden, auto, scroll, visible
+
+display => flex
+
+flex => row, column
+
+row => default
+
+
+display => flex
+
+row
+
+justify-content => horizontally
+align-items => vertically
+
+column
+
+justify-content => vertically
+align-items => horizontally
