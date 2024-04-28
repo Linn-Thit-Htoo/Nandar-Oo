@@ -112,3 +112,13 @@ column
 
 justify-content => vertically
 align-items => horizontally
+
+******* Day 9 *******
+
+- external JS
+- internal
+
+- dynamiccally typed programming language (JS)
+- statically typed (c#)
+
+var => container
