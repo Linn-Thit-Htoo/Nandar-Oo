@@ -122,3 +122,38 @@ align-items => horizontally
 - statically typed (c#)
 
 var => container
+
+******* Day 10 *******
+
+- string
+- int
+- bool
+- float
+- double
+- decimal
+- List
+- Dictionary
+- array
+- queue (FIFO)
+- stack (LIFO)
+
+- operators
+
+- assignment (=, +=, -=, *=, /=, %=)
+- arithematic (+, -, *, /, %)
+- comparison (==, ===, >, <, !=, !==, >=, <=)
+- logical (&&, ||, !)
+
+AND
+
+true && true => true
+true & false => false
+false & true => false
+flase && false => false
+
+OR
+
+true || false => true
+false || true => true
+false || false => false
+true || true => true
