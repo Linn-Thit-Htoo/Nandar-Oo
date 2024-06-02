@@ -157,3 +157,16 @@ true || false => true
 false || true => true
 false || false => false
 true || true => true
+
+
+c# => c# basic, operators
+- console app
+- window form (ASP .NET)
+- MVC (Model View Controller) => FullStack Web Application
+- Rest Api (backend)
+
+- ADO .NET
+- EF Core (ORM) => Code First & Database First
+
+- Rental Web App
+- Expense Tracker Api
